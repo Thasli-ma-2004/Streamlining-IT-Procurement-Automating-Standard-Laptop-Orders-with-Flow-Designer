@@ -1,7 +1,9 @@
 Team ID: SWTID-2026-5454 - ServiceNow Project
 
-Project: Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer
+Project: Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer.
+
 Team Lead: Thaslima Jasmin S
+
 Team ID: SWTID-2026-5454
 
 Phase 7 Project Demonstration
